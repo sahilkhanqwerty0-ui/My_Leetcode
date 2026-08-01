@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0011-container-with-most-water) |
 ## Linked List
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
