@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
 | ------- |
