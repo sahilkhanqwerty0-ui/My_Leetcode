@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Array
 |  |
 | ------- |
