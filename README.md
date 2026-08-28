@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0035-search-insert-position) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
