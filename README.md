@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0041-first-missing-positive) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
