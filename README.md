@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0040-combination-sum-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0040-combination-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
