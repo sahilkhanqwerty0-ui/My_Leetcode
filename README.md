@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0055-jump-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0055-jump-game) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
