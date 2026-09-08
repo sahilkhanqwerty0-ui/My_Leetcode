@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Quicksort
 |  |
 | ------- |
