@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0060-permutation-sequence) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
 | [3870-count-commas-in-range](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3870-count-commas-in-range) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
 | ------- |
