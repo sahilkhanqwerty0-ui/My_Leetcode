@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
 | [3870-count-commas-in-range](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3870-count-commas-in-range) |
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
