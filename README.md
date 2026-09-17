@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Depth-First Search
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0836-rectangle-overlap) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
