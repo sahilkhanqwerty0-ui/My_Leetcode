@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search
 |  |
