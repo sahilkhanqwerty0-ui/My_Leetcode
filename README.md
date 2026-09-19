@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
