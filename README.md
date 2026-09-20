@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0079-word-search) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0068-text-justification) |
+| [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
