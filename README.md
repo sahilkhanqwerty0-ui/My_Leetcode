@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -302,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
