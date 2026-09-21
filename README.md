@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
