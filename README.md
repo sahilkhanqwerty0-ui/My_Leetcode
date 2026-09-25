@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0091-decode-ways) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0088-merge-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Depth-First Search
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
