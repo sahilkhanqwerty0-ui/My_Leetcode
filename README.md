@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0061-rotate-list) |
+| [0147-insertion-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0147-insertion-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0147-insertion-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
