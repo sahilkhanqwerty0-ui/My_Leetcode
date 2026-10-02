@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
