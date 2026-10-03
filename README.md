@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
