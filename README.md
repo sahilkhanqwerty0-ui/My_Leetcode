@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0068-text-justification) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
