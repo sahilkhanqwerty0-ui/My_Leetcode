@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0089-gray-code) |
 | [1386-cinema-seat-allocation](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search
 |  |
