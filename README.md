@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0148-sort-list) |
+| [0382-linked-list-random-node](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0089-gray-code) |
+| [0382-linked-list-random-node](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0382-linked-list-random-node) |
 | [0836-rectangle-overlap](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -488,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
