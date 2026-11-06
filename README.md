@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0068-text-justification) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Quicksort
 |  |
 | ------- |
