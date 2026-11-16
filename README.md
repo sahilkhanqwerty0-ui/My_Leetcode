@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1021-remove-outermost-parentheses) |
