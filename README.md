@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0856-score-of-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0519-random-flip-matrix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0148-sort-list) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
