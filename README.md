@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0068-text-justification) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Quicksort
