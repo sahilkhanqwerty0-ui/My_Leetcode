@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
