@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -548,9 +550,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
