@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Depth-First Search
 |  |
 | ------- |
