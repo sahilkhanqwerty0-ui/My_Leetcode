@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0229-majority-element-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1140-stone-game-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1140-stone-game-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2747-count-zero-request-servers](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
@@ -576,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sahilkhanqwerty0-ui/My_Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
